@@ -8,6 +8,6 @@ The A* algorithm finds a path from the start node to the end node by checking fo
 🚗   ⛰️   0     0    0    0
 🚗   ⛰️   0     0    0    0
 🚗   ⛰️   0    🚗   🚗    🚗
-🚗   🚗   🚗   🚗   ⛰️     🏁
+🚗   🚗   🚗   🚗    ⛰️    🏁
 
 ```
